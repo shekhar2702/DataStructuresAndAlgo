@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1595305677 source:c:\users\somya.desktop-5mc629i\desktop\c_codes\tree\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Queue.h"
+
+1593872578 c:\users\somya.desktop-5mc629i\desktop\c_codes\tree\queue.h
+
+1595305656 source:c:\users\somya.desktop-5mc629i\desktop\c_codes\tree\bstrevisionanddeletion.c
+	<stdio.h>
+	<stdlib.h>
+
